@@ -1,7 +1,7 @@
 {
     "name": "necropolis/core",
     "type": "library",
-    "license": "GPT-2",
+    "license": "MIT",
     "authors": [
         {
             "name": "hossam hassan",
