@@ -1,0 +1,19 @@
+{
+    "name": "necropolis/core",
+    "type": "library",
+    "license": "GPT-2",
+    "authors": [
+        {
+            "name": "hossam hassan",
+            "email": "hossamhassan889@gmail.com"
+        }
+    ],
+    "require": {},
+
+    "autoload":{
+        "psr-4":{
+            "Necropolis\\":"src/"
+        }
+}
+
+}
